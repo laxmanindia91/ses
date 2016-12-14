@@ -1,0 +1,80 @@
+@CHARSET "ISO-8859-1";
+
+@media print {
+         #printbtn,#closebtn,#reviewbtn {display:none}
+           }
+.givespan li{
+	margin-right:20px;
+}
+.headercolor{
+	    background-color: #ccc;
+}
+
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .glyphicon  { left:  0px;}
+.right-addon .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }
+
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon1 .glyphicon { right:  10px;}
+.right-addon1 .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon1 input  { padding-left:  30px; }
+.right-addon1 input { padding-right: 30px; }
+
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon2 .glyphicon { left: 163px;}
+.right-addon2 .glyphicon { right: 0px;}
+
+/* add padding  */
+.left-addon2 input  { padding-left:  30px; }
+.right-addon2 input { padding-right: 30px; }
+
+.form-group1{
+	float: right;
+}
+
+.containerdiv2{ top: 74px;}
+.form-control-feedback {
+   
+    top: -10px;
+    left: 120px;
+    right: 50px;
+}
