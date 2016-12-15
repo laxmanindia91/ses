@@ -15,6 +15,7 @@
       return list.toString();
    }
 %>
+
 <%
  if (session.getAttribute("username")==null) {
      response.sendRedirect("login.jsp");
