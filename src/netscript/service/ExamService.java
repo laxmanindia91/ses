@@ -7,7 +7,6 @@ import javax.naming.NamingException;
 import netscript.dao.ExamDao;
 import netscript.pojo.Exam;
 
-//ExamService Class
 public class ExamService {
 	
 	ExamDao examdao =new ExamDao();
